@@ -59,7 +59,7 @@
 
 - **Yesterday:**  [What I completed in the last 2 weeks?]
   - [SC] Provided Feedback to the UX team on their design.
-  - [SC] 
+  - [SC] Worked on API for current location.
   - [SC] 
   - [CM] Provided Feedback to the UX team on their design.
   - [CM] Built Location Input Section of Frontend using Google Maps Javascript SDK, and Geolocation and Maps API's
@@ -69,9 +69,9 @@
   - [CR] 
 
 - **Today:**  [What I'm working on today?]
-  - [SC] 
-  - [SC] 
-  - [SC] 
+  - [SC] Completed backend.
+  - [SC] Sucessfully connected to MongoDB.
+  - [SC] Testing API with Postman
   - [CM] Work on Project Review Form Portfolio
   - [CM] Completed Phase 01 One-to-One with Sebin
   - [CM] Created Repository for Phase 02
@@ -86,7 +86,7 @@
   - [CR] None
 
 - **Updates/Notes**: 
-  - [SC] 
+  - [SC] Working on Connecting Frontened and Backend tomorrow.
   - [CM] 
   - [CR] 
 
