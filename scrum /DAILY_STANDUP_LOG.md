@@ -58,14 +58,14 @@
 #### **End Time** 08:10PM
 
 - **Yesterday:**  [What I completed in the last 2 weeks?]
-  - [SC] 
+  - [SC] Provided Feedback to the UX team on their design.
   - [SC] 
   - [SC] 
   - [CM] Provided Feedback to the UX team on their design.
   - [CM] Built Location Input Section of Frontend using Google Maps Javascript SDK, and Geolocation and Maps API's
   - [CM] 
-  - [CR] 
-  - [CR] 
+  - [CR] Provided Feedback to the UX team on their design.
+  - [CR] Familiarise with Google Maps API.
   - [CR] 
 
 - **Today:**  [What I'm working on today?]
@@ -76,8 +76,8 @@
   - [CM] Completed Phase 01 One-to-One with Sebin
   - [CM] Created Repository for Phase 02
   - [CM] Added Task Backlog to JIRA for Phase 02, and Created Sprint 02
-  - [CR] 
-  - [CR] 
+  - [CR] Started Frontend and Backend, Reused Code from Phase 01 for MongoDB
+  - [CR] Frontend, basic compartmentalisation for features.
   - [CR] 
 
 - **Blockers:**  [What is blocking me?] 
