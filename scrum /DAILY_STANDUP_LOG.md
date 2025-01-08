@@ -100,30 +100,31 @@
 ### Standup Notes  
 #### **Date:** Wed 07, Jan, 2025
 
-#### **Start Time** 08:30PM
-#### **End Time** 08:40PM
+#### **Start Time** 08:10PM
+#### **End Time** 08:20PM
 
 - **Yesterday:**  [What I completed in the last 2 weeks?]
-  - [SC] 
-  - [SC] 
-  - [SC] 
-  - [CM] 
-  - [CM] 
-  - [CM] 
-  - [CR] 
-  - [CR] 
-  - [CR] 
+  - [SC] Completed backend.
+  - [SC] Sucessfully connected to MongoDB.
+  - [SC] Testing API with Postman
+  - [CM] Added Task Backlog to JIRA for Phase 02, and Created Sprint 02
+  - [CM] Started Frontend and Backend, Reused Code from Phase 01 for MongoDB
+  - [CM] Frontend, basic compartmentalisation for features.
+  - [CR] Creaeted Mongo API without filters yet.
+  - [CR] Created CSS for top half of website.
+  - [CR] Got Mongo DB working.
 
 - **Today:**  [What I'm working on today?]
+  - [SC] Still working on connecting Frontened and Backend tomorrow.
+  - [SC] Refine location display on map.
+  - [SC] Update Jira.
   - [SC] 
-  - [SC] 
-  - [SC] 
+  - [CM] Frontend UI - CSS and HTML
+  - [CM] Spin-up backend.
   - [CM] 
-  - [CM] 
-  - [CM] 
-  - [CR] 
-  - [CR] 
-  - [CR] 
+  - [CR] Create filter page CSS
+  - [CR] Create backend location search filtering
+  - [CR] Finalise Google Maps API.
 
 - **Blockers:**  [What is blocking me?] 
   - [SC] None
